@@ -14,3 +14,11 @@ img {
     #Experiences{
         margin: 70px;
     }
+    body{
+        padding: 34px;
+    }
+    nav{
+        background-color: aquamarine;
+        height: 40px;
+       word-spacing: 34px;
+    }

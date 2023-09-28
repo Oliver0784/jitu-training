@@ -1,0 +1,16 @@
+body{
+    margin: 70px;
+}
+.container{
+    background-color:white;
+}
+.card{
+    background-color:blueviolet;
+    width: 100px;
+    padding: 25px;
+    border-radius: 8px;
+}
+p{
+ word-spacing: 4px;
+ padding-left: 1px;
+}
