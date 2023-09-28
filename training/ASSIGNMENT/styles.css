@@ -22,3 +22,8 @@ img {
         height: 40px;
        word-spacing: 34px;
     }
+    /* CSS code to underline an h4 heading */
+h4 {
+    text-decoration: underline;
+  }
+  
